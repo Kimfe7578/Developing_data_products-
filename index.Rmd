@@ -40,7 +40,7 @@ BMI is used as a screening tool to identify possible weight problems for adults.
 
 This is a screen image of the shiny app published in the following website:
 
-https://hdhe.shinyapps.io/App-bmi/
+https://kimfe7578.shinyapps.io/project
 
 <center><img src="figs/bmi.png"
         height="350px"/></center>
